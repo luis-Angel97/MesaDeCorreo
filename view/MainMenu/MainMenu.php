@@ -6,5 +6,8 @@
         <li>
             <a href="../ConsultarStatus"><i class="si si-compass"></i><span class="sidebar-mini-hide">Consultar Status</span></a>
         </li>
+        <li>
+            <a href="../ConsultarStatusAlumno"><i class="si si-user"></i><span class="sidebar-mini-hide">Lista De Alumnos</span></a>
+        </li>
     </ul>
 </div>
